@@ -9,3 +9,4 @@ module.exports = {
   siteUrl: 'https://jamesjdistefano.github.io/resume/',
   pathPrefix: '/resume'
 }
+
