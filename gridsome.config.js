@@ -7,6 +7,6 @@
 module.exports = {
   siteName: 'James J. DiStefano',
   siteUrl: 'https://jamesjdistefano.com/',
-  pathPrefix: '/resume'
+  pathPrefix: '/resume/'
 }
 
